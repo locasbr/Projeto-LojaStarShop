@@ -1,4 +1,5 @@
 # Projeto-LojaStarShop
+link no Vercel: https://projeto-loja-star-shop.vercel.app/
 Star Shop
 Star Shop é um projeto de e-commerce desenvolvido como parte de um trabalho de Desenvolvimento Web. O projeto inclui várias páginas HTML, estilos CSS personalizados, e scripts JavaScript para funcionalidades dinâmicas.
 
